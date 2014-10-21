@@ -1,0 +1,15 @@
+C:\Users\Gary\Documents\Presentations\DDDSW5\Problem\Solution\bin\Debug\Solution.exe.config
+C:\Users\Gary\Documents\Presentations\DDDSW5\Problem\Solution\bin\Debug\Solution.exe
+C:\Users\Gary\Documents\Presentations\DDDSW5\Problem\Solution\bin\Debug\Solution.pdb
+C:\Users\Gary\Documents\Presentations\DDDSW5\Problem\Solution\obj\Debug\Solution.csprojResolveAssemblyReference.cache
+C:\Users\Gary\Documents\Presentations\DDDSW5\Problem\Solution\obj\Debug\Solution.exe
+C:\Users\Gary\Documents\Presentations\DDDSW5\Problem\Solution\obj\Debug\Solution.pdb
+C:\Users\Gary\Documents\Presentations\NDC2014\Problem\Solution\bin\Debug\Solution.exe.config
+C:\Users\Gary\Documents\Presentations\NDC2014\Problem\Solution\obj\Debug\Solution.exe
+C:\Users\Gary\Documents\Presentations\NDC2014\Problem\Solution\obj\Debug\Solution.pdb
+C:\Users\Gary\Documents\Presentations\NDC2014\Problem\Solution\bin\Debug\Solution.exe
+C:\Users\Gary\Documents\Presentations\NDC2014\Problem\Solution\bin\Debug\Solution.pdb
+C:\Users\Gary\Documents\Presentations\NDC2014\Problem\Solution\obj\Debug\Solution.csprojResolveAssemblyReference.cache
+C:\Users\Gary\Documents\Presentations\SoftwareArchitect\FromZeroToHadoop\Problem\Solution\bin\Debug\Solution.exe.config
+C:\Users\Gary\Documents\Presentations\SoftwareArchitect\FromZeroToHadoop\Problem\Solution\obj\Debug\Solution.exe
+C:\Users\Gary\Documents\Presentations\SoftwareArchitect\FromZeroToHadoop\Problem\Solution\obj\Debug\Solution.pdb

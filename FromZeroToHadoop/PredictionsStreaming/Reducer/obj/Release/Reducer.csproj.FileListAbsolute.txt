@@ -1,0 +1,6 @@
+C:\Users\Gary\Documents\Presentations\NDC2014\PredictionsStreaming\Reducer\bin\Release\Reducer.exe.config
+C:\Users\Gary\Documents\Presentations\NDC2014\PredictionsStreaming\Reducer\bin\Release\Reducer.exe
+C:\Users\Gary\Documents\Presentations\NDC2014\PredictionsStreaming\Reducer\bin\Release\Reducer.pdb
+C:\Users\Gary\Documents\Presentations\NDC2014\PredictionsStreaming\Reducer\obj\Release\Reducer.exe
+C:\Users\Gary\Documents\Presentations\NDC2014\PredictionsStreaming\Reducer\obj\Release\Reducer.pdb
+C:\Users\Gary\Documents\Presentations\NDC2014\PredictionsStreaming\Reducer\obj\Release\Reducer.csprojResolveAssemblyReference.cache

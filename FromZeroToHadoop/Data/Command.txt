@@ -1,0 +1,1 @@
+hadoop jar ./lib/hadoop-streaming.jar -files "hdfs:///demo/apps/Mapper.exe,hdfs:///demo/apps/Reducer.exe" -mapper "Mapper.exe" -reducer "Reducer.exe" -input /demo/in -output /demo/out
