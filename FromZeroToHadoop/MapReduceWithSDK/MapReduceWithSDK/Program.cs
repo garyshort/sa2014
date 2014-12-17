@@ -17,7 +17,9 @@ namespace MapReduceWithSDK
                 OutputFolder = "/demo/out"
             };
 
-            Hadoop.Connect().MapReduceJob.Execute<Mapper, Reducer>(conf);
+            Hadoop.Connect(new Uri("http://win8-dev-pc/"), "hadoop", "")
+                .MapReduceJob
+                .Execute<Mapper, Reducer>(conf);
 
         }
     }

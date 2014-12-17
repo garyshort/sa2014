@@ -54,7 +54,5 @@ C:\Users\Gary\Documents\Presentations\SoftwareArchitect\FromZeroToHadoop\MapRedu
 C:\Users\Gary\Documents\Presentations\SoftwareArchitect\FromZeroToHadoop\MapReduceWithSDK\MapReduceWithSDK\bin\Debug\Microsoft.WindowsAzure.Management.HDInsight.Framework.Experimental.dll
 C:\Users\Gary\Documents\Presentations\SoftwareArchitect\FromZeroToHadoop\MapReduceWithSDK\MapReduceWithSDK\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Gary\Documents\Presentations\SoftwareArchitect\FromZeroToHadoop\MapReduceWithSDK\MapReduceWithSDK\bin\Debug\Microsoft.WindowsAzure.Management.HDInsight.Framework.Experimental.Threading.dll
-C:\Users\Gary\Documents\Presentations\SoftwareArchitect\FromZeroToHadoop\MapReduceWithSDK\MapReduceWithSDK\bin\Debug\System.Net.Http.Formatting.dll
 C:\Users\Gary\Documents\Presentations\SoftwareArchitect\FromZeroToHadoop\MapReduceWithSDK\MapReduceWithSDK\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Gary\Documents\Presentations\SoftwareArchitect\FromZeroToHadoop\MapReduceWithSDK\MapReduceWithSDK\bin\Debug\System.Net.Http.Formatting.xml
 C:\Users\Gary\Documents\Presentations\SoftwareArchitect\FromZeroToHadoop\MapReduceWithSDK\MapReduceWithSDK\obj\Debug\MapReduceWithSDK.csprojResolveAssemblyReference.cache
