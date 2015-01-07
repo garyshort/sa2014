@@ -7,3 +7,6 @@ C:\Users\Gary\Documents\Presentations\NDC2014\PredictionsStreaming\PredictionsSt
 C:\Users\Gary\Documents\Presentations\SoftwareArchitect\FromZeroToHadoop\PredictionsStreaming\PredictionsStreaming\bin\Release\Mapper.exe.config
 C:\Users\Gary\Documents\Presentations\SoftwareArchitect\FromZeroToHadoop\PredictionsStreaming\PredictionsStreaming\obj\Release\Mapper.exe
 C:\Users\Gary\Documents\Presentations\SoftwareArchitect\FromZeroToHadoop\PredictionsStreaming\PredictionsStreaming\obj\Release\Mapper.pdb
+C:\Users\Gary\Documents\Presentations\SoftwareArchitect\FromZeroToHadoop\PredictionsStreaming\PredictionsStreaming\bin\Release\Mapper.exe
+C:\Users\Gary\Documents\Presentations\SoftwareArchitect\FromZeroToHadoop\PredictionsStreaming\PredictionsStreaming\bin\Release\Mapper.pdb
+C:\Users\Gary\Documents\Presentations\SoftwareArchitect\FromZeroToHadoop\PredictionsStreaming\PredictionsStreaming\obj\Release\Mapper.csprojResolveAssemblyReference.cache
